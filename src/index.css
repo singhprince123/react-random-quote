@@ -1,4 +1,4 @@
 body{
-  background: linear-gradient(rgba(216, 170, 19, 0.663), rgba(216, 170, 19, 0.663));
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   font-family: 'Indie Flower', cursive;
 }
